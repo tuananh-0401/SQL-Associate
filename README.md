@@ -5,6 +5,7 @@ To obtain the Associate SQL Certification, this candidate had to demonstrate tha
 + Exploratory Analysis
   
 We tested the candidate's skills rigorously through:
+
  **Timed exams**
   
 Through a series of questions on a range of topics, we are able to establish that this individual has the knowledge required for a data analyst role. We make use of adaptive testing approaches to understand to a high degree of confidence the skill level of individuals who take the assessments.
